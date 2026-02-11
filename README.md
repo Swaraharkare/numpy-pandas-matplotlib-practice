@@ -1,6 +1,6 @@
-# Python Data Science Assignments
+# Python Data Analyst Assignments
 
-A comprehensive collection of assignments and practice notebooks focused on mastering the core libraries of the Python Data Science ecosystem: **NumPy**, **Pandas**, and **Matplotlib**.
+A comprehensive collection of assignments and practice notebooks focused on mastering the core libraries of the Python Data Analyst ecosystem: **NumPy**, **Pandas**, and **Matplotlib**.
 
 ## 🚀 Overview
 This repository serves as a personal portfolio of data analysis exercises. It covers everything from basic array manipulation to advanced data cleaning and professional-grade visualizations.
